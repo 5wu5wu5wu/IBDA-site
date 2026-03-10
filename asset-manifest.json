@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IBDA-site/static/css/main.c25a4b8a.css",
+    "main.js": "/IBDA-site/static/js/main.96975f2f.js",
+    "index.html": "/IBDA-site/index.html",
+    "main.c25a4b8a.css.map": "/IBDA-site/static/css/main.c25a4b8a.css.map",
+    "main.96975f2f.js.map": "/IBDA-site/static/js/main.96975f2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c25a4b8a.css",
+    "static/js/main.96975f2f.js"
+  ]
+}
